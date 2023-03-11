@@ -6,7 +6,7 @@ import Fullscreen from "yet-another-react-lightbox/plugins/fullscreen";
 import "yet-another-react-lightbox/styles.css";
 
 const photos = [
-  { src: "https://github.com/wicheror/nicolas-wicher-art/blob/86d1479d6c794fe7c26105a01528ee62c9b8facc/src/gallery/assets/pic1.png", width: 1160, height: 1200 },
+  { src: "https://github.com/wicheror/nicolas-wicher-art/src/gallery/assets/pic1.png", width: 1160, height: 1200 },
   { src: "./src/gallery/assets/pic2.png", width: 885, height: 1182 },
   { src: "./src/gallery/assets/pic3.png", width: 1200, height: 1226 },
   { src: "./src/gallery/assets/pic4.png", width: 912, height: 1200 },
